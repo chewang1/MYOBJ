@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/shaders/diffuse.frag</file>
+        <file>Resources/shaders/diffuse.vert</file>
+        <file>Resources/shaders/phong.frag</file>
+        <file>Resources/shaders/phong.vert</file>
+    </qresource>
+</RCC>
